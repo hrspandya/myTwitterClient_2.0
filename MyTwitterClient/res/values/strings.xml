@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Twitter</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_photos">Flickr Photos</string>
+    <string name="login_label">Log in</string>
+    <string name="title_activity_timeline">Tweets</string>
+    <string name="title_activity_compose">Let\'s tweet</string>
+    <string name="cancel">Cancel</string>
+    <string name="tweet">Tweet</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+
+</resources>
